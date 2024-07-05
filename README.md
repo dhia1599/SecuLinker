@@ -37,6 +37,5 @@ Outils de gestion avancés et infrastructure évolutive pour répondre à une va
 Frontend : React.js
 Backend : Node.js
 Base de Données : MongoDB
-API : RESTful APIs
 Sécurité : Normes OWASP, RGPD, authentification multifactorielle
 Infrastructure : Hébergement Cloud (Azure), Docker, Kubernetes
